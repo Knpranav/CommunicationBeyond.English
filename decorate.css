@@ -13,14 +13,14 @@ html,body{
 h2{
   
   width: 100%;
-  padding: 10px;
-  font-size: 33px;
+  padding-top: 20px;
+  font-size: 30px;
   font-weight: 500;
   color: white;
   font-family: 'Inconsolata',monospace;
   text-shadow: 1px 1px 5px gainsboro;
   text-align: center;
- background-image: linear-gradient(to right, #045de9 , #09c6f9 );
+  background-image: linear-gradient(to right, #045de9 , #09c6f9 );
   box-shadow: 0px 0px 20px blue;
   padding-top: 0;
   margin-top: 0;
@@ -43,8 +43,8 @@ h2{
 
     width: 100%;
     padding: 1px;
-    font-size: 18px;
-    line-height: 22px;
+    font-size: 16px;
+    line-height: 18px;
     font-family: 'Inconsolata',monospace;
     color: white;
 
@@ -55,7 +55,6 @@ h2{
      width:100%;
      font-family: 'Inconsolata',monospace;
      font-size: 24px;
-     border-radius:5px;
      text-align: center;
      color:black;
      box-shadow: 1px 1px 15px rgb(24, 134, 207);
@@ -70,7 +69,6 @@ h2{
     width:100%;
     font-family: 'Inconsolata',monospace;
     font-size: 24px;
-    border-radius:5px;
     text-align: center;
     color:black;
     box-shadow: 0px 0px 15px rgb(24, 134, 207);
@@ -86,7 +84,6 @@ h2{
     width:100%;
     font-family: 'Inconsolata',monospace;
     font-size: 24px;
-    border-radius:5px;
     text-align: center;
     color:black;
     box-shadow: 1px 1px 15px rgb(24, 134, 207);
