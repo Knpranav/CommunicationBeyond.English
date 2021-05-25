@@ -19,7 +19,6 @@ h2{
   text-align: center;
   font-weight: 500;
   color: white;
-  
   font-family: 'Inconsolata',monospace;
   text-shadow: 1px 1px 5px gainsboro;
   background-image: linear-gradient(to right, #045de9 , #09c6f9 );
@@ -45,7 +44,7 @@ h2{
 
     width: 100%;
     padding: 1px;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 18px;
     font-family: 'Inconsolata',monospace;
     color: white;
